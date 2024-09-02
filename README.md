@@ -3,7 +3,7 @@ Straight Five Design card image repo
 
 The image files contained herein are print-ready front card art (full bleed, 300dpi).
 
-Standard loadout (SL) cards are intended for tarot-sized printing. (70mm x 121mm, 2.75" x 4.75")
+Standard loadout (SL) cards and Armada ship cards are intended for tarot-sized printing. (70mm x 121mm, 2.75" x 4.75")
 
 All others are intended for standard US-size poker cards (63.5mm x 88.9mm, 2.5" x 3.5")
 
